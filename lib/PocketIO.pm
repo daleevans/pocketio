@@ -363,7 +363,14 @@ Viacheslav Tykhanovskyi, C<vti@cpan.org>.
 
 Copyright (C) 2011-2013, Viacheslav Tykhanovskyi
 
-This program is free software, you can redistribute it and/or modify it under
-the terms of the Artistic License version 2.0.
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+Terms of the Perl programming language system itself:
+
+a) the GNU General Public License as published by the Free
+   Software Foundation; either version 1, or (at your option) any
+   later version, or
+b) the "Artistic License"
 
 =cut
